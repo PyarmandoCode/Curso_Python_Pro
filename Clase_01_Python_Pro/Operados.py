@@ -8,6 +8,7 @@ division_entera = 12 / 6
 division_decimal = 12 // 8
 multiplicar= 12 * 6
 exponente = 12 ** 2
+residuo = 12 % 4
 #Logicos
 """
 > < >= <= != == not and=y or=o
